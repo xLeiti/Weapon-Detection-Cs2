@@ -1,5 +1,5 @@
 # Weapon-Detection-Cs2
-A cs2 cfg framework to detect the weapon you are holding. This can be used to change your crosshair/binds depending on the item you hold.
+A cs2 cfg framework to detect the weapon you are holding. This can be used to change your crosshair/binds depending on the item you are holding.
 
 This is the original soundinfo detection config. It works without the bible config (exec_async exploit).
 
