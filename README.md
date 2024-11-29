@@ -9,6 +9,6 @@ It's still not perfect, since the game skips playing sounds for the same weapon 
 
 Another important note is, that the key_up input has to happen withing 0.5s of the key_down input, since weapon-switch sounds have a pretty short duration.
 
-You can alias your stuff either directly to the weapon aliases in ```WeaponDetect/init``` or create new aliases named ```item_[name]``` and call them by doing ```CurrentItem | toggle "cmd;"```
+You can alias your stuff either directly to the weapon aliases in ```WeaponDetect/detect.cfg``` or create new aliases named ```item_[name]``` and call them by doing ```CurrentItem | toggle "cmd;"```
 
-Read ```WeaponDetect/binds``` for more information.
+Read ```WeaponDetect/binds.cfg``` for more information.
